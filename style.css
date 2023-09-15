@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Press+Start+2P&family=Roboto:wght@100&display=swap');
+
+body{
+    font-family: 'Orbitron', sans-serif;
+    background-image: url(starTrek.jpg);
+    color: rgba(255,255,255, 0.6);
+}
+
+span{
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 700;
+}
+
+h1{
+    font-size: 50px;
+    letter-spacing: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+#series-movies{
+    font-size: 20px;
+}
+
+h2{
+    font-size: 2.5em;
+}
+
+div li{
+    margin-top: 2em;
+    font-size: 1rem;
+}
+
+#characters{
+    font-size: 18px;
+}
+
+h4{
+    letter-spacing: 15px;
+    font-family: 'Press Start 2P', cursive;
+}
+
+h3, h2, h4{
+    text-align: center;
+} 
+ 
+
